@@ -4,13 +4,13 @@ A HTML5 Canvas game where you try to guess the current value of gravitational ac
 
 ## Setup Instructions
 
-- Clone this repository: git clone https://github.com/DMPS/GuessGravity.git
-- Change into the directory: cd GuessGravity
-- Install all of the dependencies: npm install
-- Run the development server: npm start
+- Clone this repository: `git clone https://github.com/DMPS/GuessGravity.git`
+- Change into the directory: `cd GuessGravity`
+- Install all of the dependencies: `npm install`
+- Run the development server: `npm start`
 - Have Fun!
 
-##Folder Structure
+## Folder Structure
 
 ```
 -public: Static markup and styles
